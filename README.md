@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shane+Lee!;" />
 </h1>
-<h3 align="center">A Computer Science Student in South Australia at Univeristy of Adelaide</h3>
+<h3 align="center">A Computer Science Student in South Australia at University of Adelaide</h3>
 
 <details align ="center">
   <a href="https://github.com/Shaninhooo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaninhooo&theme=tokyonight"></a>
