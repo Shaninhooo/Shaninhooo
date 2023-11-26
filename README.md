@@ -3,7 +3,8 @@
 </h1>
 <h3 align="center">A Computer Science Student in South Australia at University of Adelaide</h3>
 
-<details align ="center">
+<h1 align="center">
+<details>
   <a href="https://github.com/Shaninhooo?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shaninhooo&theme=tokyonight"></a>
   <h1>
     <a href="https://github.com/Shaninhooo?tab=repositories&language=python" target="_blank"><img alt="Python" src="https://img.shields.io/badge/-Python-3572A5?style=flat-square&logo=Python&logoColor=white"></a>
@@ -12,3 +13,4 @@
     <a href="https://github.com/Shaninhooo?tab=repositories&language=html" target="_blank"><img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
   </h1>
 </details>
+</h1>
